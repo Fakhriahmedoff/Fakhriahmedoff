@@ -19,9 +19,9 @@
 
 ### Languages/Frameworks/Tools
 
-[![Laravel](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&link=https://github.com/Fakhriahmedoff)](https://github.com/Fakhriahmedoff)
-[![Php](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js&link=https://github.com/Fakhriahmedoff)](https://github.com/Fakhriahmedoff)
-[![Ajax](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&link=https://github.com/Fakhriahmedoff)](https://github.com/Fakhriahmedoff)
+[![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=javascript&link=https://github.com/Fakhriahmedoff)](https://github.com/Fakhriahmedoff)
+[![Php](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=node.js&link=https://github.com/Fakhriahmedoff)](https://github.com/Fakhriahmedoff)
+[![Ajax](https://img.shields.io/badge/-Ajax-black?style=for-the-badge&logo=express&link=https://github.com/Fakhriahmedoff)](https://github.com/Fakhriahmedoff)
 [![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=for-the-badge&logo=postgresql&link=https://github.com/Fakhriahmedoff)](https://github.com/Fakhriahmedoff) 
 [![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=mysql&link=https://github.com/Fakhriahmedoff)](https://github.com/Fakhriahmedoff) 
 <br/>
