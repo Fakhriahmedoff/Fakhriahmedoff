@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Fakhri Ahmadov</h1>
-<h2 align="center" > Plug and Play team player </h2>
+<h2 align="center" > 95% PHP developer </h2>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
