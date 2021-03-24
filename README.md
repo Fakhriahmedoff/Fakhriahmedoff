@@ -1,10 +1,10 @@
- <h1 align="center">Hi 👋, I'm Nasir Movlamov</h1>
-<h2 align="center" >Damn JS Dev </h2>
+ <h1 align="center">Hi 👋, I'm Fakhri Ahmadov</h1>
+<h2 align="center" > Plug and Play team player </h2>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="mailto:movlamovnasir@protonmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://az.linkedin.com/in/nasir-movlamov-322ab21b4"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fakhriahmedoff@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/faxri-ahmadov-a7633a154/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/fakhriahmadov"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ"><img src="https://img.shields.io/badge/youtube-9116EF.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
  <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ"><img src="https://img.shields.io/badge/telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
