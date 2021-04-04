@@ -68,8 +68,8 @@
 [![Try Hack Me](https://img.shields.io/badge/-TryHackMe-black?style=for-the-badge&logo=tryhackme&link=https://github.com/Fakhriahmedoff)](https://github.com/Fakhriahmedoff)
 
 <ul>
-  <li listStyle='none'> :mortar_board: Azerbaijan Staty University </li>
-  <li> :pushpin: Computer Engineering </li>
+  <li listStyle='none'> :mortar_board: Azerbaijan Technical  University </li>
+  <li> :pushpin: System Engineering </li>
   <li> :earth_americas: Open Source Mind </li>
 </ul>
 
