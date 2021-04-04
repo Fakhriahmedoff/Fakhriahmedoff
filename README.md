@@ -1,5 +1,5 @@
  <h1 align="center"># Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fakhri Ahmadov</h1>
-<h2 align="center" > 95% PHP developer </h2>
+<h2 align="center" > Full Stack Web and Game Developer </h2>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
