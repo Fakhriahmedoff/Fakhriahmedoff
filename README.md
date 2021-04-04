@@ -1,7 +1,7 @@
  <h1 align="center"># Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fakhri Ahmadov</h1>
 <h2 align="center" > Full Stack Web and Game Developer </h2>
-
 <h2 align="center">Connect with me:</h2>
+<h2 align="center" ><a href="https://play.google.com/store/apps/developer?id=Ahmedoff+Studio"> Game Portfolio </a></h2>
 <p align="center">
   <a href="mailto:fakhriahmedoff@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/faxri-ahmadov-a7633a154/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
