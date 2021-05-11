@@ -21,7 +21,7 @@
 <ul>
 • Languages: C#, PHP, JavaScript.<br>
 • Technologies: Laravel, ASP.NET Core, ASP.NET MVC, Windows Forms, Unity.<br>
-• Front tools: Html, Css, Bootstrap, Jquery.<br>
+• Front-End tools: Html, Css, Bootstrap, Jquery.<br>
 • CMS: Wordpress, Opencart, 1c-Bitrix, Cs Cart.<br>
 • Databases: MS SQL Server, MySQL, PostgreSQL, MongoDB, SQLite<br>
 • Methodologies: Agile, Scrum, Kanban.<br>
@@ -38,8 +38,8 @@
 
 <div>
  <h2> Enjoys</h3>
- <h4> Physics / Astronomy / Relativity </h4> 
- <h4> Drawing Portraits </h4>
+ <h4> Evolution / Astronomy / Gaming </h4> 
+ <h4> Playing Basketball / Riding Skateboard  </h4>
 </div>
 
 
