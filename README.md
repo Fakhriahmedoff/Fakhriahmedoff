@@ -21,6 +21,7 @@
 <ul>
 • Languages: C#, PHP, JavaScript.<br>
 • Technologies: Laravel, ASP.NET Core, ASP.NET MVC, Windows Forms, Unity.<br>
+• Microservices: Laravel Api, ASP.NET Web Api, JWT.<br>
 • Front-End tools: Html, Css, Bootstrap, Jquery.<br>
 • CMS: Wordpress, Opencart, 1c-Bitrix, Cs Cart.<br>
 • Databases: MS SQL Server, MySQL, PostgreSQL, MongoDB, SQLite<br>
