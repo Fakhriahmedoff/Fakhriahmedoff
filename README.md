@@ -31,7 +31,6 @@
 <li> Useful Tools: Jira, Git, Gitlab.</li>
 <li> Languages: EN, AZ(Native)</li>
 </ul> 
- <img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif">
 <ul>
   <li listStyle='none'> :mortar_board: Azerbaijan Technical  University </li>
   <li> :pushpin: System Engineering </li>
@@ -40,6 +39,8 @@
 
 <div>
  <h2> Enjoys</h3>
+  <img  src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif">
+
  <h4> Evolution / Astronomy / Gaming </h4> 
  <h4> Playing Basketball / Riding Skateboard  </h4>
 </div>
