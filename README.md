@@ -31,7 +31,7 @@
 <li> Useful Tools: Jira, Git, Gitlab.</li>
 <li> Languages: EN, AZ(Native)</li>
 </ul> 
- 
+ <img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif">
 <ul>
   <li listStyle='none'> :mortar_board: Azerbaijan Technical  University </li>
   <li> :pushpin: System Engineering </li>
