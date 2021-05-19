@@ -38,9 +38,9 @@
 </ul>
 
 <div>
- <h2> Enjoys</h3>
+ <h2> Lets talk about myself</h3>
   <img  src="https://media.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif">
-
+ <h3> Enjoys </h3> 
  <h4> Evolution / Astronomy / Gaming </h4> 
  <h4> Playing Basketball / Riding Skateboard  </h4>
 </div>
