@@ -25,7 +25,7 @@
 <li> API: Laravel Api, ASP.NET Web Api, JWT.</li>
 <li> Front-End tools: Html, Css, SCSS, Bootstrap, Jquery.</li>
 <li> CMS: Wordpress, Opencart, 1c-Bitrix, Cs Cart.</li>
-<li> Databases: MS SQL Server, MySQL, PostgreSQL, MongoDB, SQLite</li>
+<li> Databases: MS SQL Server, MySQL, PostgreSQL</li>
 <li> Methodologies: Agile, Scrum, Kanban.</li>
 <li> OS: Microsoft Windows XP, 7, 8.1, 10, Linux.</li>
 <li> Useful Tools: Jira, Git, Gitlab.</li>
