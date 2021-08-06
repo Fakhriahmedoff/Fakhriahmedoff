@@ -16,7 +16,7 @@
 </div>
 
 <br/>
-<img src="URL:https://www.codewars.com/users/FakhriAhmedov/badges/large">
+<img src="https://www.codewars.com/users/FakhriAhmedov/badges/large">
 ### Languages/Frameworks/Tools
 <ul>
 <li> Languages: C#, PHP, JavaScript.</li>
