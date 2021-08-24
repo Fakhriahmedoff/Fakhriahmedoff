@@ -18,6 +18,7 @@
 <br/>
 <img src="https://www.codewars.com/users/FakhriAhmedov/badges/large">
 ## Languages/Frameworks/Tools
+```php
 <ul>
 <li> Languages: C#, PHP, JavaScript.</li>
 <li> Technologies: Laravel, ASP.NET Core, ASP.NET MVC, Windows Forms, Unity.</li>
@@ -32,6 +33,7 @@
 <li> Languages: EN, AZ(Native)</li>
 </ul> 
 <ul>
+```
   <li listStyle='none'> :mortar_board: Azerbaijan Technical  University </li>
   <li> :pushpin: System Engineering </li>
   <li> :earth_americas: Open Source Mind </li>
