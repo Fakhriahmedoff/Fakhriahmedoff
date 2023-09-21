@@ -1,4 +1,4 @@
- <h1 align="center"># Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fakhri Ahmadov</h1>
+ <h1 align="center"># Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fakhri Ahmadov</h1>
 <h2 align="center" > Full Stack Web and Hobbyist Game Developer </h2>
 <h2 align="center">Connect with me:</h2>
 <h2 align="center" ><a href="https://play.google.com/store/apps/developer?id=Ahmedoff+Studio"> Game Portfolio </a></h2>
